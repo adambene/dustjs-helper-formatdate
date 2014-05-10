@@ -1,6 +1,6 @@
 {
   "name": "dustjs-helper-formatdate",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": {
     "name": "Adam Bene",
     "url": "https://github.com/adambene"
@@ -10,7 +10,7 @@
   "scripts": {
     "test": "grunt test"
   },
-  "main": "./lib/dust-helpers",
+  "main": "./lib/index",
   "repository": {
     "type": "git",
     "url": "https://github.com/adambene/dustjs-helper-formatdate.git"
