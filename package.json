@@ -18,7 +18,15 @@
   "keywords": [
     "templates",
     "views",
-    "helpers"
+    "helper",
+    "helpers",
+    "dust",
+    "dustjs",
+    "format",
+    "date",
+    "time",
+    "locale",
+    "moment"
   ],
   "dependencies": {
     "moment": "2.5.1"
