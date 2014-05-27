@@ -12,5 +12,13 @@ require('dustjs-helper-formatdate')(dust);
 </time>
 ```
 
+or
+
+```html
+<time>
+    {@formatDate date="{myDate}" format="{formatString}" lan="{locale}"/}
+</time>
+```
+
 # License
 MIT license
