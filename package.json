@@ -1,6 +1,6 @@
 {
     "name": "dustjs-helper-formatdate",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "author": {
         "name": "Adam Bene",
         "url": "https://github.com/adambene"
@@ -29,7 +29,7 @@
         "moment"
     ],
     "dependencies": {
-        "moment": "2.8.3"
+        "moment": "2.9.0"
     },
     "license": "MIT"
 }
